@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-##I am a dedicated software developer with a strong background in web development and a growing focus on DevSecOps. 
+I am a dedicated software developer with a strong background in web development and a growing focus on DevSecOps. 
 
 
 
