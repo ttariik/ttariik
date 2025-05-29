@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a dedicated software developer with a strong background in web development and a growing focus on DevSecOps. 
+With a strong foundation in web development, I’m now shifting my focus toward mastering DevSecOps to bridge the gap between development, operations, and security.
 
 Technologies I work with:
 
